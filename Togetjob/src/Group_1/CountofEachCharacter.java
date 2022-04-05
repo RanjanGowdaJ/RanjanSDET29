@@ -20,9 +20,9 @@ public class CountofEachCharacter {
 				count++;  
 				}
 				
-			}// step 4=print the character and occuarence of each character  
+			}// step 4=print the character and occuarence of each character  abdbsmgdyqytdw
 			
-			System.out.println(ch+"  "+count);
+			System.out.println(ch+"fwydfquydu  "+count);
 			
 		}
 		
